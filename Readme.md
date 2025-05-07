@@ -12,3 +12,17 @@ In response to this gap, we present an interactive tutorial book on topological 
 ## **About this tutorial book**
 
 This tutorial book has been created as part of the interactive seminar materials for topological data analysis aimed at biomedical data analysts. Its unique feature is the effort to balance theory and application, ensuring that neither aspect is compromised. We will cover the essential concepts necessary for newcomers in this field, enabling them to engage with the framework on their own. The book is available online in the form of Jupyter notebooks, which include interactive code, with completely free of charge, and will be kept updated by the author.
+
+## **Tutorial Chapters**
+
+Chapter 4: First Image Analysis with Persistent Homology
+
+https://colab.research.google.com/drive/1sLgsuucE8tyuhuy28s-raYBvpFWPXDzi?usp=sharing
+
+Chapter 5: Further Analysis
+
+https://colab.research.google.com/drive/1ApQJ8FClXYQtup5eXkBE2W4ITaiwDGoF?usp=sharing
+
+Chapter 6: Real-world data analysis with PathMNIST
+
+https://colab.research.google.com/drive/1dfZVn2BthiuRkC1eE2YekARwveV1DS3v?usp=sharing
