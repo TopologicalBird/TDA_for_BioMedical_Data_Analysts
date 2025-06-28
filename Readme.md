@@ -23,6 +23,3 @@ Chapter 5: Further Analysis
 
 https://colab.research.google.com/drive/1ApQJ8FClXYQtup5eXkBE2W4ITaiwDGoF?usp=sharing
 
-Chapter 6: Real-world data analysis with PathMNIST
-
-https://colab.research.google.com/drive/1dfZVn2BthiuRkC1eE2YekARwveV1DS3v?usp=sharing
